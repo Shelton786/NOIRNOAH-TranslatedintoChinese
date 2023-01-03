@@ -8,7 +8,7 @@
 罗布恩农场汉化组
 QQ群：698304114
 群密码：人工智障
-github仓库：https://github.com/Shelton786/NOIRNOAH-
+github仓库：https://github.com/Shelton786/NOIRNOAH-TranslatedintoChinese
 gitee仓库：https://gitee.com/Booker786/NOIRNOAHTranslatedintoChinese
 有条件请支持正版！没条件以后记得补票哈！初次做汉化组，请多多指教！
 纯爱发电，欢迎来玩，人满开新群！
@@ -56,4 +56,10 @@ B3F太平间（map026）
 B3F仓库（map027）
 B3F东走廊（map028）
 B4F西通道（map035）
+————————————————————————————————————
+2023年1月3日
+汉化人员：
+平凡的书儿（https://space.bilibili.com/113589678）
+修复了：
+汉化后游戏里部分中文不显示的问题……
 ————————————————————————————————————
