@@ -1,4 +1,4 @@
-# NOIRNOAH-
+# NOIRNOAH-TranslatedintoChinese
 游戏：《NOIR：NOAH》简体中文汉化，由罗布恩农场汉化组汉化，转载请经过许可并标明出处！  
 ————————————————————————————————————  
 使用方法：r18NOIRNOAH1.0.0\www\data 覆盖原文件就行  
@@ -10,7 +10,7 @@
 罗布恩农场汉化组  
 QQ群：698304114  
 群密码：人工智障  
-github仓库：https://github.com/Shelton786/NOIRNOAH-  
+github仓库：https://github.com/Shelton786/NOIRNOAH-TranslatedintoChinese  
 gitee仓库：https://gitee.com/Booker786/NOIRNOAHTranslatedintoChinese  
 有条件请支持正版！没条件以后记得补票哈！初次做汉化组，请多多指教！  
 纯爱发电，欢迎来玩，人满开新群！  
@@ -79,4 +79,15 @@ B2F西走廊（map017）
 主界面（map020）  
 暮色森林（map044）  
 系统（system）  
-————————————————————————————————————
+————————————————————————————————————  
+2023年1月20日  
+平凡的书儿  
+星光 
+@zsytqnxy  
+人工校正了：  
+B1F东走廊（map005）  
+B1F雪儿(Ciel)的房间（map006）  
+B2F东走廊（map012）  
+彻底修复了：  
+汉化后按钮合一块的问题……  
+————————————————————————————————————  
