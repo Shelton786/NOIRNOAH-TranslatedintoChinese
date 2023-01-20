@@ -83,7 +83,7 @@ B2F西走廊（map017）
 2023年1月20日  
 平凡的书儿  
 星光   
-@zsytqnxy  
+@zsytqnxy 千年咸鱼  
 人工校正了：  
 B1F东走廊（map005）  
 B1F雪儿(Ciel)的房间（map006）  
