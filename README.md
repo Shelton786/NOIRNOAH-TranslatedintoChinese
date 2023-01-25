@@ -1,15 +1,15 @@
 # NOIRNOAH-TranslatedintoChinese
 游戏：《NOIR：NOAH》简体中文汉化，由罗布恩农场汉化组汉化，转载请经过许可并标明出处！  
 ————————————————————————————————————  
-使用方法：r18NOIRNOAH1.0.0\www\data 覆盖原文件就行  
+使用方法：r18NOIRNOAH1.0.0\www 覆盖相应原文件就行  
 ————————————————————————————————————  
 相关游戏：NOIR:NOAH  
 游戏作者：めとこ/冥途のみやげ  
 游戏地址：https://www.dlsite.com/maniax/work/=/product_id/RJ435996.html  
 ————————————————————————————————————  
 罗布恩农场汉化组  
-QQ群：698304114  
-群密码：人工智障  
+QQ群：632251716  
+群密码：东方红，太阳升  
 github仓库：https://github.com/Shelton786/NOIRNOAH-TranslatedintoChinese  
 gitee仓库：https://gitee.com/Booker786/NOIRNOAHTranslatedintoChinese  
 有条件请支持正版！没条件以后记得补票哈！初次做汉化组，请多多指教！  
@@ -90,4 +90,11 @@ B1F雪儿(Ciel)的房间（map006）
 B2F东走廊（map012）  
 彻底修复了：  
 汉化后按钮合一块的问题……  
+————————————————————————————————————  
+2023年1月25日  
+汉化人员：  
+平凡的书儿  
+星光  
+人工校正了：  
+map007-011  
 ————————————————————————————————————  
